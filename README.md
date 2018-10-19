@@ -4,10 +4,14 @@ Repository_to_learn_C#
 
 ñldfkjñladfkjdñlasfkjfkañfñafkj
 
-#adñlkdsjfdñlkjafañdlfka
+# adñlkdsjfdñlkjafañdlfka
 
-##dsfakjfdañlfkd
+## dsfakjfdañlfkd
 
-###aslñadsfk´dasñlfkds
+### aslñadsfk´dasñlfkds
 
 adskjasdfkdasfkljsak Solución
+
+``c# 
+public void nose qqé 
+``
